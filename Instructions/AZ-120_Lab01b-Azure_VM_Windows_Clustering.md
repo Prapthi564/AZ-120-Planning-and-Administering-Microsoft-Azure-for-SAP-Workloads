@@ -1,4 +1,4 @@
-# Lab 2: Implement Windows clustering on Azure VMs
+# Lab 02: Implement Windows clustering on Azure VMs
 
 ## Lab scenario
 
