@@ -1,4 +1,4 @@
-# Lab 1: Implement Linux clustering on Azure VMs
+# Lab 01: Implement Linux clustering on Azure VMs
 
 ## Lab scenario
 
